@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: bde716e766dda3748bcf317d38794d03
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Pixhobo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: dceaaa1afd39bc8479218c74868a578f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
