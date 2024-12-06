@@ -1,1 +1,2 @@
-# TempleRun-Remake-Unity
+# Game_Unity_with_Gesture_Recognition
+# NLN_KhoaHocMayTinh
